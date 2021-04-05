@@ -34,7 +34,7 @@ django-q==1.2.4
 django-storages==1.9.1
 djangorestframework==3.11.0
 dnspython==1.16.0
-docutils==0.16
+
 entrypoints==0.3
 et-xmlfile==1.0.1
 filelock==3.0.12
